@@ -21,7 +21,7 @@ A colorful CLI app for managing personal finances! 🌈
 1. Ensure you have Python 3.6+ installed.
 2. Clone this repository:
    ```
-   git clone https://github.com/Sanjanabonagiri16/Personal-Finance-Management-Applicationr.git
+   git clone https://github.com/ayushitasle/Personal-Finanace-Management-Application-InnobyteServices.git
    ```
    3. Navigate to the project directory:
    ```
